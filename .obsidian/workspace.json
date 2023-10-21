@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "bf4d8dfa7f0b8a1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3f2225914b8be2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71416b4701f33954",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kali linux commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1574ec7f0fbb4dd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nodeschool.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9c185996ce9f4564",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc0cf2f8ad45d7d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46720b2fba6ec26c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ff7132ef31283c22",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "98c42151bf0a3d4f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "7836d78ffdf09e98",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a94e84f624bcbdf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "aa78017f45480402",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ef34175a0421ebd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "nodeschool.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b1d341f414b7a1b1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "nodeschool.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "692201e5d994b289",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e12a4b13494486d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "nodeschool.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1574ec7f0fbb4dd9",
+  "lastOpenFiles": [
+    "sql hashed passwords.md",
+    "nodeschool.md",
+    "kali linux commands.md",
+    "Bandits hacking.md",
+    "hacking machines/Over the wire",
+    "hacking machines",
+    "science course",
+    "linux for ethical hackers.md"
+  ]
+}
